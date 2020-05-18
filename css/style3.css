@@ -1,0 +1,172 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: #231F20;
+}
+button{
+	width: 9.7%;
+	height: 50px;
+	background-color: white;
+	color: white;
+	border-radius: 15px;
+}
+#contenedor{
+	float: left;
+	background-color: #231F20;
+	width: 100%;
+	height: 1080px;
+}
+#caja1{
+	position: relative;
+	right: 20px;
+	margin: 20px;
+	background-color: #59595B;
+	width: 100%;
+	height: 80px;
+}
+#caja2{
+	float: left;
+	position: relative;
+	right: 40px;
+	left: 30px;
+	margin: 40px;
+	background-color: #C41F3F;
+	width: 10%;
+	height: 130px;
+}
+#caja3{
+	position: relative;
+	top: 170px;
+	left: 30px;
+	margin: 40px;
+	background-color: #414143;
+	width: 90%;
+	height: 500px;
+}
+#caja4{
+	position: relative;
+	top: 110px;
+	left: 30px;
+	margin: 40px;
+	float: left;
+	background-color: ;
+	width: 55%;
+	height: 300px;
+}
+#caja5{
+	position: relative;
+	top: 110px;
+	margin: 40px;
+	float: left;
+	background-color: ;
+	width: 31%;
+	height: 300px;
+}
+#hijoe1{
+	position: relative;
+	left: 10px;
+	margin: 20px;
+	background-color: #424043;
+	display: flex;
+	float: left;
+	width: 23%;
+	height: 100px;
+}
+#hijoe2{
+	position: relative;
+	left: 10px;
+	margin: 20px;
+	background-color: #57595B;
+	display: flex;
+	float: left;
+	width: 23%;
+	height: 100px;
+}
+#hijoe3{
+	position: relative;
+	left: 10px;
+	margin: 20px;
+	background-color: #6C6E72;
+	display: flex;
+	float: left;
+	width: 23%;
+	height: 100px;
+}
+p{
+	position: relative;
+	left: 20px;
+	margin: 10px;
+	color: #6E6E72;
+}
+.container{
+	padding: 5px;
+	width: 90%;
+	height: 100px;
+}
+#texto{
+	position: relative;
+	top: -32px;
+	margin: 40px;
+	float: left;
+	width: 50%;
+	height: 130px;
+}
+h1{
+	margin: 40px;
+	color: white;
+}
+#boton1{
+	float: left;
+	position: relative;
+	top: -10px;
+	margin: 20px;
+	padding: 20px;
+	width: 170px;
+	height: 20px;
+	background-color: #E4E7E7;
+}
+#boton2{
+	float: left;
+	position: relative;
+	left: 590px;
+	top: -10px;
+	margin: 20px;
+	padding: 20px;
+	width: 20px;
+	height: 20px;
+	background-color: #6C6D70;
+}
+#boton3{
+	float: left;
+	position: relative;
+	left: 575px;
+	top: -10px;
+	margin: 20px;
+	padding: 20px;
+	width: 20px;
+	height: 20px;
+	background-color: #6C6D70;
+}
+#boton4{
+	float: left;
+	position: relative;
+	left: 560px;
+	top: -10px;
+	margin: 20px;
+	padding: 20px;
+	width: 340px;
+	height: 20px;
+	background-color: #E4E7E7;
+}
+#boton5{
+	float: left;
+	position: relative;
+	left: 510px;
+	top: -10px;
+	margin: 20px;
+	padding: 20px;
+	width: 20px;
+	height: 20px;
+	background-color: #EE6829;
+}
