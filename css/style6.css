@@ -18,6 +18,8 @@ button{
 	height: 1080px;
 }
 #caja1{
+	position: relative;
+	top: 10px;
 	background-color: #59595B;
 	width: 100%;
 	height: 80px;

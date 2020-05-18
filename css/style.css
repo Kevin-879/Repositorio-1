@@ -12,6 +12,8 @@ button{
 	border-radius: 15px;
 }
 #caja1{
+	position: relative;
+	top: 10px;
 	float: left;
 	background-color: #59595B;
 	width: 107.5%;
